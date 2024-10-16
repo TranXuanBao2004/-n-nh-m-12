@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|c:\\users\\cyber\\downloads\\doannhom12\\guiquanlythuoc\\ucnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:ucnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\ucnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:ucnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|c:\\users\\cyber\\downloads\\doannhom12\\guiquanlythuoc\\uckhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:uckhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\uckhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:uckhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E6F9B5-A1A5-45E1-AFBB-BB89A5D22B5C}|..\\BUS\\BUS.csproj|c:\\users\\cyber\\downloads\\doannhom12\\bus\\bus_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEFC052-9A37-4D1B-A6A7-AE9398484139}|..\\DAL\\DAL.csproj|c:\\users\\cyber\\downloads\\doannhom12\\dal\\dal_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F47B42-9B05-47E1-AB65-40AC63598AEA}|..\\ET\\ET.csproj|c:\\users\\cyber\\downloads\\doannhom12\\et\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEFC052-9A37-4D1B-A6A7-AE9398484139}|..\\DAL\\DAL.csproj|c:\\users\\cyber\\downloads\\doannhom12\\dal\\dal_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F47B42-9B05-47E1-AB65-40AC63598AEA}|..\\ET\\ET.csproj|c:\\users\\cyber\\downloads\\doannhom12\\et\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\ucdvt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:ucdvt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E6F9B5-A1A5-45E1-AFBB-BB89A5D22B5C}|..\\BUS\\BUS.csproj|c:\\users\\cyber\\downloads\\doannhom12\\bus\\bus_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\ucnhaphanphoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:ucnhaphanphoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\ucnhapthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:ucnhapthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\ucnhasanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:ucnhasanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\ucnhomthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:ucnhomthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\ucthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:ucthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\uctimthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:uctimthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEFC052-9A37-4D1B-A6A7-AE9398484139}|..\\DAL\\DAL.csproj|c:\\users\\cyber\\downloads\\doannhom12\\dal\\dbqlthuoc.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|c:\\users\\cyber\\downloads\\doannhom12\\guiquanlythuoc\\ucbanthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:ucbanthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\ucnhapthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:ucnhapthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\ucthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:ucthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\ucthuoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:ucthuoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B18F468-E35A-4B08-8512-5DCFBBB3B7B4}|GUIQuanLyThuoc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UcDvt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcDvt.cs",
+              "RelativeDocumentMoniker": "UcDvt.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcDvt.cs [Design]",
+              "RelativeToolTip": "UcDvt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:34:18.389Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BUS_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\BUS\\BUS_NhanVien.cs",
+              "RelativeDocumentMoniker": "..\\BUS\\BUS_NhanVien.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\BUS\\BUS_NhanVien.cs",
+              "RelativeToolTip": "..\\BUS\\BUS_NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:00:48.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAL_NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\DAL\\DAL_NhanVien.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DAL_NhanVien.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\DAL\\DAL_NhanVien.cs",
+              "RelativeToolTip": "..\\DAL\\DAL_NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:55:10.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UcNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhanVien.cs",
+              "RelativeDocumentMoniker": "UcNhanVien.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhanVien.cs [Design]*",
+              "RelativeToolTip": "UcNhanVien.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:07:25.237Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UcNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhanVien.cs",
+              "RelativeDocumentMoniker": "UcNhanVien.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhanVien.cs*",
+              "RelativeToolTip": "UcNhanVien.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:07:06.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UcKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcKhachHang.cs",
+              "RelativeDocumentMoniker": "UcKhachHang.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcKhachHang.cs [Design]",
+              "RelativeToolTip": "UcKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:17:44.893Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UcKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcKhachHang.cs",
+              "RelativeDocumentMoniker": "UcKhachHang.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcKhachHang.cs",
+              "RelativeToolTip": "UcKhachHang.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvyQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:47:03.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\ET\\NhanVien.cs",
+              "RelativeDocumentMoniker": "..\\ET\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\ET\\NhanVien.cs",
+              "RelativeToolTip": "..\\ET\\NhanVien.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:55:39.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DAL_KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\DAL\\DAL_KhachHang.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DAL_KhachHang.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\DAL\\DAL_KhachHang.cs",
+              "RelativeToolTip": "..\\DAL\\DAL_KhachHang.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:46:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\ET\\KhachHang.cs",
+              "RelativeDocumentMoniker": "..\\ET\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\ET\\KhachHang.cs",
+              "RelativeToolTip": "..\\ET\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:39:15.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BUS_KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\BUS\\BUS_KhachHang.cs",
+              "RelativeDocumentMoniker": "..\\BUS\\BUS_KhachHang.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\BUS\\BUS_KhachHang.cs",
+              "RelativeToolTip": "..\\BUS\\BUS_KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:37:23.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UcNhaPhanPhoi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhaPhanPhoi.cs",
+              "RelativeDocumentMoniker": "UcNhaPhanPhoi.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhaPhanPhoi.cs [Design]",
+              "RelativeToolTip": "UcNhaPhanPhoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:18:31.676Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UcNhapThuoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhapThuoc.cs",
+              "RelativeDocumentMoniker": "UcNhapThuoc.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhapThuoc.cs [Design]",
+              "RelativeToolTip": "UcNhapThuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:12:26.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UcNhaSanXuat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhaSanXuat.cs",
+              "RelativeDocumentMoniker": "UcNhaSanXuat.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhaSanXuat.cs [Design]",
+              "RelativeToolTip": "UcNhaSanXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T10:51:40.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UcNhomThuoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhomThuoc.cs",
+              "RelativeDocumentMoniker": "UcNhomThuoc.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhomThuoc.cs [Design]",
+              "RelativeToolTip": "UcNhomThuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:34:48.915Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UcThuoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcThuoc.cs",
+              "RelativeDocumentMoniker": "UcThuoc.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcThuoc.cs [Design]",
+              "RelativeToolTip": "UcThuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T10:10:10.828Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UcTimThuoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcTimThuoc.cs",
+              "RelativeDocumentMoniker": "UcTimThuoc.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcTimThuoc.cs [Design]",
+              "RelativeToolTip": "UcTimThuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:39:26.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:09:01.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DbQLThuoc.dbml",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\DAL\\DbQLThuoc.dbml",
+              "RelativeDocumentMoniker": "..\\DAL\\DbQLThuoc.dbml",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\DAL\\DbQLThuoc.dbml",
+              "RelativeToolTip": "..\\DAL\\DbQLThuoc.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-10-16T10:38:19.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UcBanThuoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcBanThuoc.cs",
+              "RelativeDocumentMoniker": "UcBanThuoc.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcBanThuoc.cs [Design]",
+              "RelativeToolTip": "UcBanThuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:12:58.629Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAmwL8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:08:24.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UcNhapThuoc.cs",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhapThuoc.cs",
+              "RelativeDocumentMoniker": "UcNhapThuoc.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcNhapThuoc.cs",
+              "RelativeToolTip": "UcNhapThuoc.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T10:11:47.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UcThuoc.cs",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcThuoc.cs",
+              "RelativeDocumentMoniker": "UcThuoc.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcThuoc.cs",
+              "RelativeToolTip": "UcThuoc.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvyUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:36:18.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UcThuoc.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcThuoc.Designer.cs",
+              "RelativeDocumentMoniker": "UcThuoc.Designer.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\UcThuoc.Designer.cs",
+              "RelativeToolTip": "UcThuoc.Designer.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAADgvwQBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:43:32.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CYBER\\Downloads\\DoAnNhom12\\GUIQuanLyThuoc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:15:27.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

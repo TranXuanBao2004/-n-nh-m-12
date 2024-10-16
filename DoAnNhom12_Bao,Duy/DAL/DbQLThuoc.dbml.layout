@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DbQLThuoc">
+  <DataContextMoniker Name="/DbQLThuocDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e5c93dea-b49e-4d99-a443-8f886bf13b56" absoluteBounds="0.75, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DbQLThuocDataContext/KHACHHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="693fcc15-6328-4c0d-8af4-5a6e297820c4" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="833f4b6e-0f08-49de-99ba-d54dfd3abe75" absoluteBounds="3.75, 0.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/DbQLThuocDataContext/NHANVIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="da3c0141-fb3c-42e3-b1f5-04bd6030d0fb" absoluteBounds="3.765, 1.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
